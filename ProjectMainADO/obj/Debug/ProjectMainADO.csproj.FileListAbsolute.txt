@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\bin\Debug\ProjectMainADO.exe.config
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\bin\Debug\ProjectMainADO.exe
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\bin\Debug\ProjectMainADO.pdb
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.Form1.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.Properties.Resources.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.Public_Portal.resources
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.exe
+C:\Users\Admin\Desktop\Accord assignments\Dotnet13\ProjectMainADO\ProjectMainADO\obj\Debug\ProjectMainADO.pdb
